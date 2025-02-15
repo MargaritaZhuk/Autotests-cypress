@@ -1,0 +1,9 @@
+{
+  "card_number": ".credit",
+  "cvv": ".k_input_ccv",
+  "date": ".k_input_date",
+  "name": ".k_input_name",
+  "button_pay": ".pay-btn",
+  "code": "#cardnumber",
+  "button_submit": ".payment__submit-button"
+}
