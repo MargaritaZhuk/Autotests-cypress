@@ -1,9 +1,9 @@
 {
-	"login":"margeryzhuk@yandex.ru",
-	"password":"Zhukrit@1",
+	"login":"USER_LOGIN",
+	"password":"USER_PASSWORD",
 	"card": "5555555544444442",
 	"cvv": "125",
 	"date": "1026",
-	"name": "MARGARITA ZHUK",
+	"name": "NAME",
 	"code": "56456"
 }
